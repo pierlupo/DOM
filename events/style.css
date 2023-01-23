@@ -1,0 +1,58 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: rgba(0, 119, 255, 0.815);
+}
+
+#button{
+    position:absolute;
+    top: 0;
+    left: 630px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50rem;
+}
+#my-heading{
+    height: 25rem;
+}
+
+#myButton {
+    cursor: pointer;
+    
+ 
+}
+
+#my_window{
+    height:200px;
+    width: 200px;
+    background-color: rgba(0, 0, 0, 0.808);
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+}
+
+.hidden {
+    display: none;
+}
+
+#open_btn{
+    width: 10em;
+    color: white;
+    background-color: rgba(0, 0, 255, 0.596);
+    border-radius: 2rem;
+    border:none;
+}
+
+#close_btn{
+    width: 10em;
+    color: white;
+    background-color: rgba(0, 0, 255, 0.562);
+    border-radius: 2rem;
+    border:none;
+}
+
+#maDiv2{
+    margin-left: auto;
+    margin-right: auto;
+    width: 10em;
+}
